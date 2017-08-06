@@ -1,0 +1,9 @@
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\bin\Debug\ServicioRestML.dll.config
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\bin\Debug\ServicioRestML.dll
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\bin\Debug\ServicioRestML.pdb
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\bin\Debug\Newtonsoft.Json.dll
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\bin\Debug\RestSharp.dll
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\bin\Debug\Newtonsoft.Json.xml
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\bin\Debug\RestSharp.xml
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\obj\Debug\ServicioRestML.dll
+c:\users\mario_000\documents\visual studio 2013\Projects\AppMLForm\ServicioRestML\obj\Debug\ServicioRestML.pdb
