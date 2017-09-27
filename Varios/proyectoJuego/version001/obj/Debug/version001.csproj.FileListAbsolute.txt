@@ -1,0 +1,16 @@
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.Form1.resources
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.frmAyuda.resources
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.frmConfiguracion.resources
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.Properties.Resources.resources
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.csproj.GenerateResource.Cache
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.exe
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.pdb
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\bin\Debug\version001.exe.config
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\bin\Debug\version001.exe.manifest
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\bin\Debug\version001.application
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\bin\Debug\version001.exe
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\bin\Debug\version001.pdb
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\bin\Debug\Ejercicio01.dll
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\bin\Debug\Ejercicio01.pdb
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.exe.manifest
+C:\Users\mario_000\Documents\Visual Studio 2013\Projects\proyectoJuego\version001\obj\Debug\version001.application

@@ -1,0 +1,8 @@
+C:\Users\mario_000\documents\visual studio 2013\Projects\proyectoJuego\version02\bin\Debug\version02.exe.config
+C:\Users\mario_000\documents\visual studio 2013\Projects\proyectoJuego\version02\bin\Debug\version02.exe
+C:\Users\mario_000\documents\visual studio 2013\Projects\proyectoJuego\version02\bin\Debug\version02.pdb
+C:\Users\mario_000\documents\visual studio 2013\Projects\proyectoJuego\version02\obj\Debug\version02.Form1.resources
+C:\Users\mario_000\documents\visual studio 2013\Projects\proyectoJuego\version02\obj\Debug\version02.Properties.Resources.resources
+C:\Users\mario_000\documents\visual studio 2013\Projects\proyectoJuego\version02\obj\Debug\version02.csproj.GenerateResource.Cache
+C:\Users\mario_000\documents\visual studio 2013\Projects\proyectoJuego\version02\obj\Debug\version02.exe
+C:\Users\mario_000\documents\visual studio 2013\Projects\proyectoJuego\version02\obj\Debug\version02.pdb
